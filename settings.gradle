@@ -1,0 +1,5 @@
+rootProject.name = 'gradle-example-netology'
+include 'db'
+include 'service'
+include 'api'
+
